@@ -47,3 +47,22 @@ python main.py
 - More events
 - Pygame graphical version
 - Difficulty modes
+
+## Screenshots
+Title Screen:
+![Title Screenshot](assets/screenshots/title-screen.png)
+
+Department Choice:
+![Department Screenshot](assets/screenshots/dept-choice.png)
+
+Stats Screen:
+![Stats Screenshot](assets/screenshots/stats-screen.png)
+
+Inventory Screen:
+![Inventory Screenshot](assets/screenshots/inventory.png)
+
+Battle:
+![Battle Screenshot](assets/screenshots/battle.png)
+
+Boss Fight:
+![Boss Fight Screenshot](assets/screenshots/boss-fight.png)
