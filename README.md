@@ -50,19 +50,25 @@ python main.py
 
 ## Screenshots
 Title Screen:
+
 ![Title Screenshot](terminal-realms/assets/screenshots/title-screen.png)
 
 Department Choice:
+
 ![Department Screenshot](terminal-realms/assets/screenshots/dept-choice.png)
 
 Stats Screen:
+
 ![Stats Screenshot](terminal-realms/assets/screenshots/stats-screen.png)
 
 Inventory Screen:
+
 ![Inventory Screenshot](terminal-realms/assets/screenshots/inventory.png)
 
 Battle:
+
 ![Battle Screenshot](terminal-realms/assets/screenshots/battle.png)
 
 Boss Fight:
+
 ![Boss Fight Screenshot](terminal-realms/assets/screenshots/boss-fight.png)
