@@ -34,6 +34,8 @@ Fight your way through a cursed office building filled with:
 - Insurance Agent
 - IT Specialist
 
+or type 'random' if there are too many choices.
+
 ## Run the Game
 
 python main.py
